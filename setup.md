@@ -32,5 +32,5 @@ We have a GitHub repo, but how do we use it?
 
 ## Done
 
-Now that you've got all your team members on board, [let's move on to the next step](discovery-phase.html)...
+Now that you've got all your team members on board, [let's move on to the next step](research-phase.html)...
 
