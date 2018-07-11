@@ -22,3 +22,10 @@ Do some digging!  Here are some websites you can look at:
 
 ## Goal
 
+Come up with a clear and concise single sentence answer for each of these questions:
+* What is the problem?
+* Who does it affect?
+* Why this is important?
+* What is the solution?
+
+[Now let's move on with this project!](research-phase.html)
