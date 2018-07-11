@@ -7,4 +7,4 @@ Your task:
 
 It will be ugly, it may not work, but this baby is the start of your MVP.
 
-Done?  [Let's build this...](mvp.html)
+Done?  [Let's build this...](mvp-phase.html)
