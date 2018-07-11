@@ -30,4 +30,4 @@ Come up with a clear and concise single sentence answer for each of these questi
 * Why this is important?
 * What is the solution?
 
-[Now let's move on with this project!](research-phase.html)
+[Now let's move on with this project!](setup.html)
