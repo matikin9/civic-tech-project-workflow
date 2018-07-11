@@ -2,7 +2,7 @@
 
 You've pitched your idea, you've got your team, and your project has a clear direction - now let's get you set up for success!
 
-Come up with a working name (we can always refine it later!) to use for your GitHub repo and Slack channel.
+Have the team come up with a working name!  This is what we'll use for your GitHub repo and Slack channel so make sure it's short, sweet, and to-the-point.  Don't worry if it's not perfect, we can always refine it later.
 
 ## Slack
 
