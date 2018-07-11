@@ -1,6 +1,6 @@
 # Discovery Phase
 
-You are in the Discovery Phase!  You've got a general idea of what you're interested in and maybe you've got a lot of questions.  It's time to turn that into a project idea!
+You are in the Discovery Phase!  You've got a general idea of what you're interested in and maybe you've got a lot of questions.  It's time to bake a cake out of those ingredients!
 
 Here are some questions to help you out:
 
@@ -13,12 +13,14 @@ Here are some questions to help you out:
 * What would an MVP look like?
 * How feasible is the MVP?
 
-Do some digging!  Here are some websites you can look at:
+Do some resource gathering!  Here are some websites you can look at:
 
 * http://www.lacounty.gov
 * http://www.lacity.org
 * http://data.lacounty.gov
 * http://data.lacity.org
+
+What are other websites (government, non-profit, existing projects) that are relevant to your project?
 
 ## Goal
 
