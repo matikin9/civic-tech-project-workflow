@@ -9,4 +9,4 @@ Are you able to describe in a clear and concise way:
 * Why this is important?
 * What is the solution?
 
-YES -or- NO
+YES -or- [NO](discovery.html)
