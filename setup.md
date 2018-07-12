@@ -27,7 +27,11 @@ We have a GitHub repo, but how do we use it?
 
 * New to GitHub?  Have team members go here - GITHUB BASICS FOR PROJECTS.
 * How should the team use GitHub?
-  * Use the README page to give some background on the problem and the solution.
+  * Use the README page to give some background on the problem and the solution.  Document your answers to the questions:
+    * What is the problem?
+    * Who does it affect?
+    * Why this is important?
+    * What is the solution?
   * **For Project Management** - Create a new Issue each week to take notes on who was there, what was discussed, and what the action items are.
   * **For Code** - If possible, build out your MVP using front end only (maybe connecting to data using an API).  Turn on GitHub Pages so the repo itself is your MVP website.  You can get started with HTML/CSS/JS, or even Markdown.
 
