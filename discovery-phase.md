@@ -1,6 +1,6 @@
 # Discovery Phase
 
-You are in the Discovery Phase!  You've got a general idea of what you're interested in and maybe you've got a lot of questions.  It's time to bake a cake out of those ingredients!
+You are in the Discovery Phase!  You've got a general idea of what you're interested in and maybe you've got a lot of questions.  It's time to focus on a direction.
 
 Here are some questions to help you out:
 
