@@ -1,5 +1,7 @@
 # civic-tech-project-workflow
 
+## Background
+
 Hack for LA has been running weekly hack nights for over two years, and through the many project ideas that have passed through our doors we've seen what works and what doesn't.  The issues our groups face over and over again aren't new - you see the same issues in the open source software community as well as in tech startups.
 
 Here are some of the underlying issues that drove us to create this guide:
@@ -12,6 +14,32 @@ Here are some of the underlying issues that drove us to create this guide:
 
 4. We get a lot of great ideas, and sometimes the leads disappear.  Maybe life got busy or they moved away.  We don't want to lose the project just because that happens, but how do we keep the project going or get someone else to pick it up if none of the work was documented and the project repository is on someone's personal account?  Without a way for Hack for LA to centrally access the project work and documentation, project ideas are subject to the lives of individuals to the detriment of all the other contributors.
 
+## Overview
+
+The ideas in this guide are a mixture of feedback from project group members, strategies from other brigades, and Agile/Lean principles.  In the book, *The Lean Product Playbook*, the "Lean Product Process" is defined as the following 6 steps:
+
+1. Determine your target customers.
+2. Identify underserved cusomter needs.
+3. Define your value proposition.
+4. Specify your minimum viable product (MVP) feature set.
+5. Create your MVP prototype.
+6. Test yoru MVP with customers.
+
+Our guide pretty much follows all these steps even though we're not creating a for-profit product.  We still need to find a "product-market" fit to convince people to use our product, and to convince partner agencies that our product is worth the investment of their time and support.
+
+The basic phases as currently defined are:
+
+1. Discovery
+2. Research
+3. Prototype
+4. Pre-MVP
+5. MVP/Development
+6. Testing
+
+After the MVP has been launched, the group continues to iterate through the Prototype, MVP/Development, and Testing phases.
+
+## Further Development
+
 Here are some areas this guide still needs to improve on:
 
 * Account better for group dynamics.
@@ -22,3 +50,4 @@ Here are some areas this guide still needs to improve on:
 * Highlight what the milestones are.
 * Have a high level outline of the process on the initial page.
 * Define at what points in the progress a project group gains access to certain Hack for LA resources (money, communication, etc.).
+* Having a "Pre-MVP" phase is a little awkward.  Maybe we should separate out these phases into an initial set that leads to an MVP, and a separate set for the iterations after the MVP?
