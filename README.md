@@ -51,3 +51,4 @@ Here are some areas this guide still needs to improve on:
 * Have a high level outline of the process on the initial page.
 * Define at what points in the progress a project group gains access to certain Hack for LA resources (money, communication, etc.).
 * Having a "Pre-MVP" phase is a little awkward.  Maybe we should separate out these phases into an initial set that leads to an MVP, and a separate set for the iterations after the MVP?
+* Make sure the early phases are still practical and keep the momementum moving in a group.  Maybe create a repo they should clone that has templates for each step they need to fill out, and a "reward" for thinking through the questions - like being posted to the Hack for LA website and announced on Twitter?
