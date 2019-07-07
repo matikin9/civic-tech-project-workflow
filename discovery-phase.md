@@ -15,10 +15,10 @@ Here are some questions to help you out:
 
 Do some resource gathering!  Here are some websites you can look at:
 
-* http://www.lacounty.gov
-* http://www.lacity.org
-* http://data.lacounty.gov
-* http://data.lacity.org
+* [Los Angeles County](http://www.lacounty.gov)
+* [City of Los Angeles](http://www.lacity.org)
+* [Los Angeles County Open Data Portal](http://data.lacounty.gov)
+* [City of Los Angeles Open Data Portal](http://data.lacity.org)
 
 What are other websites (government, non-profit, existing projects) that are relevant to your project?
 
